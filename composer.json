@@ -7,5 +7,10 @@
             "email": "pestov@sub.uni-goettingen.de"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Subugoe\\GermaniasacraUtils\\": "src"
+        }
+    },
     "require": {}
 }
