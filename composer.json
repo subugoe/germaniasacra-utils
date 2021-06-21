@@ -1,0 +1,11 @@
+{
+    "name": "subugoe/germaniasacra-utils",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Paul Pestov",
+            "email": "pestov@sub.uni-goettingen.de"
+        }
+    ],
+    "require": {}
+}
