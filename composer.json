@@ -7,6 +7,8 @@
             "email": "pestov@sub.uni-goettingen.de"
         }
     ],
+    "description": "A library to share utility classes for Germania Sacra 2020 implementation.",
+    "license": "AGPL-3.0-or-later",
     "autoload": {
         "psr-4": {
             "Subugoe\\GermaniasacraUtils\\": "src"
